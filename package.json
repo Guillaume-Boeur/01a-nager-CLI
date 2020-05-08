@@ -1,0 +1,26 @@
+{
+  "name": "01a-nager-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guillaume-Boeur/01a-nager-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guillaume-Boeur/01a-nager-CLI/issues"
+  },
+  "homepage": "https://github.com/Guillaume-Boeur/01a-nager-CLI#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-list": "^2.2.0"
+  }
+}
