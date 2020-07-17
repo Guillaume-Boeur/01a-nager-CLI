@@ -13,7 +13,7 @@
 
     The application allows by default to display the holidays of a country returned from the current year. You can specify a specific year.
 
-## Exemple :
+# How to use :
 
 Write in Terminal :
 
@@ -21,7 +21,7 @@ Write in Terminal :
 $ holidates Belgium 1992
 ```
 
-### Result :
+## Result :
 
 ```terminal
 $ holidates Belgium 1992
